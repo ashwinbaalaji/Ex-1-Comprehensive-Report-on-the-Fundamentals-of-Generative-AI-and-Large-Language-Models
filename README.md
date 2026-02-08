@@ -109,12 +109,12 @@ Evaluation & Safety Alignment: Ensures responses are accurate, safe, and aligned
 
 4. Timeline Chart: Evolution of Artificial Intelligence
 
-<img width="964" height="636" alt="Screenshot 2026-02-08 114944" src="https://github.com/user-attachments/assets/0d57078a-577a-4dc1-a246-91b2489e05c4" />
- |
+<img width="964" height="636" alt="Screenshot 2026-02-08 114944" src="https://github.com/user-attachments/assets/c504f011-5c52-4081-8198-69de24d8bbed" />
+
 
 Conclusion
 Generative AI and Large Language Models represent a transformative shift in how machines process and produce information. As tools become more capable, ethical considerations, data governance, and responsible AI deployment remain essential to ensure that innovation benefits society in meaningful ways.
-
+ 
  
 Result:
 Thus,the experiment is successfully completed.
