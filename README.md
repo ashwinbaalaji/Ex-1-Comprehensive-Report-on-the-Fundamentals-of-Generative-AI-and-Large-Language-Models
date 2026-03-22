@@ -67,5 +67,6 @@ Output:
 
 [PROMPT EX 1.docx](https://github.com/user-attachments/files/26157495/PROMPT.EX.1.docx)
 
+
 Result:
 Thus,the experiment is successfully completed.
